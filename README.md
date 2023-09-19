@@ -7,6 +7,7 @@
   <ul>
     <li><a href = "https://github.com/telkheir/implementing-active-directory">Setting up Active Directory in the Cloud</a>
     <li><a href = "https://github.com/telkheir/azure-network-protocols/blob/main/README.md">Inspecting Network Protocols between Azure Virtual Machines</a></li>
+    <li><a href = "">DNS Exercises: Local Cache, A-Records, and CNAMES</a></li>
   </ul>
   <li>osTicket</li>
   <ul>
