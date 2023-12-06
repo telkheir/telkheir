@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tesneem, an aspiring <a href = "https://www.linkedin.com/in/tess-elkheir/">IT Professional</a></h1>
 
-<h2>Information Technology Projects:</h2>
+<h2>👨‍💻Information Technology Projects:</h2>
 
 <ul>
   <li>Microsoft Azure</li>
